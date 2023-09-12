@@ -5,5 +5,6 @@ This Repo contains all my project in Machine Learning and data Analytics
 
 
 
-contact me on 
+contact me on for discuss 
 linkedIn : https://www.linkedin.com/in/erwin-jalaluddin/
+Instagram : https://www.instagram.com/erjee18/
