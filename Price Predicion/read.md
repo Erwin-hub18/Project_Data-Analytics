@@ -1,0 +1,1 @@
+Price Prediction project adalah , project data analyst menggunakan machine Learning Sklearn untuk memprediksi harga properti berdaarkan histori dataset yang tersedia. Dataset yang digunakan adala dataset Price Properti di Kuala Lumpur
